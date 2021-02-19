@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ConsoleApp18.Kilpailija">
+    <Position X="5.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAIAAAAAAACAABAAAEAAAAAAAA=</HashCode>
+      <FileName>Kilpailija.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="ConsoleApp18.Ajanottaja">
+    <Position X="8" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgABAACAAAAACAAAAAAAAAAAAAgAAACA=</HashCode>
+      <FileName>Ajanottaja.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Field Name="kilpailijat" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
