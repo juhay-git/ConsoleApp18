@@ -17,6 +17,11 @@ namespace ConsoleApp18
             this.Numero = numero;
         }
 
+        public string PalautaTiedot()
+        {
+            return "Nimi: " + Nimi + "\tNumero: " + Numero + "\tAika:" + Aika;
+        }
+
         public void TulostaTiedot()
         {
             Console.WriteLine("Nimi: {0}\tNumero: {1}\tAika: {2}", Nimi, Numero, Aika);
