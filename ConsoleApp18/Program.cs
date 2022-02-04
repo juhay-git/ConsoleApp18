@@ -51,6 +51,7 @@ namespace ConsoleApp18
             Console.WriteLine();
 
             kello.tulostaTulokset();
+            
         }
     }
 }
