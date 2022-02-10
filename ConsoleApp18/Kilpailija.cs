@@ -11,6 +11,8 @@ namespace ConsoleApp18
         public String Numero { get; set; }
         public String Aika { get; set; }
 
+        public String Tulos { get; set; }
+
         public Kilpailija(String nimi, String numero)
         {
             this.Nimi = nimi;
