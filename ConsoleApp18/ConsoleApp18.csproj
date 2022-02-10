@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ajanottaja.cs" />
+    <Compile Include="TestiLuokka.cs" />
     <Compile Include="Kilpailija.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
