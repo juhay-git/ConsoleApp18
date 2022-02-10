@@ -19,6 +19,7 @@ namespace ConsoleApp18
 
         public string PalautaTiedot()
         {
+            // Testing testing
             return "Nimi: " + Nimi + "\tNumerot: " + Numero + "\tAika:" + Aika;
         }
 
